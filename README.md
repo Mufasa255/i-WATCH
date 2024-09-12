@@ -13,7 +13,7 @@ i-Watch is a simple digital clock web application that dynamically displays the 
 
 1. Clone this repository to your local machine using:
     ```bash
-    git clone https://github.com/your-username/i-Watch.git
+    git clone https://github.com/Mufasa255/i-Watch.git
     ```
 
 2. Navigate to the project folder:
